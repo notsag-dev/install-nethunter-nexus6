@@ -1,7 +1,9 @@
 # nethunter-nexus6
-
-- Unlock OEM from inside android device
-- Download and add to path Android platform tools.
+- Enable developer options
+- Enable USB debugging and OEM unlocking
+- Download Android platform tools (cli tools) and add to path
+- Enter bootloader/fastboot mode 
+- Run `fastboot flashing unlock` and `fastboot oem unlock`
 - Download twrp recovery for Nexus 6
 - Enter bootloader
 - fastboot flash recovery _twrpfile_
