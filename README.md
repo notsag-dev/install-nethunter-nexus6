@@ -7,3 +7,5 @@
 - fastboot flash recovery _twrpfile_
 - Enter recovery mode
 
+
+Note: After running flash-all of the Android recovery image _image-shamu-n6f27m_ the filesystem breaks. From twrp it's impossible to even wipe anything. The solution is to change the /data filesystem to fat and then back to ext4.
