@@ -1,5 +1,5 @@
 # Install Kali Nethunter on Nexus 6 (Shamu)
-Personal step-by-step guide to install Kali Nethunter on the Nexus 6 (Shamu), because I won't spend an entire day trying to do this ever again.
+Personal step-by-step guide to install Kali Nethunter on the Nexus 6 (Shamu), because I won't spend an entire day trying to do this ever again:
 
 1) Enable developer mode by repeatedly tapping on the phone's build number from `settings > about phone > build number`.
 2) Enable USB debugging and OEM unlocking.
