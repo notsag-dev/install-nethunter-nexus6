@@ -21,7 +21,7 @@ Personal step-by-step guide to install Kali Nethunter on the Nexus 6 (Shamu), be
 18) Install the app _Root Checker_ from the Play Store and verify that the device has root access.
 19) Install the app _BusyBox_ from the Play Store, which is actually a [Busy Box](https://www.busybox.net/) installer, and use it to install the tool suite.
 18) Go to the bootloader again and enter the recovery mode.
-19) Download the last Kali Nethunter release from [here](https://www.offensive-security.com/kali-linux-nethunter-download/). In my case would be the one for Nexus 6 Nougat.
+19) Download the last Kali Nethunter release from [here](https://www.offensive-security.com/kali-linux-nethunter-download/). In my case it would be the one for Nexus 6 Nougat.
 20) Copy Kali Nethunter's zip to the phone by running `adb push nethunter-2020.3-shamu-nougat-kalifs-full.zip /`.
 19) Install Kali Nethunter from the TWRP recovery using the _Install_ menu option the same as for Magisk installation (step 16).
 20) Boot phone and run the Nethunter app to complete the installation.
